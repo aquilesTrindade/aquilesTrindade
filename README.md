@@ -1,4 +1,4 @@
-### Sobre eu 🙏
+### Sobre eu 
 
 Eu sou Aquiles Trindade, desenvolvedor android brasileiro.
 
