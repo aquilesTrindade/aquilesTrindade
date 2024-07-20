@@ -8,5 +8,3 @@ Eu sou Aquiles Trindade, desenvolvedor android brasileiro.
 
 #### Linguagem
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesTrindade&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=aquilesTrindade&color=2196f3)
